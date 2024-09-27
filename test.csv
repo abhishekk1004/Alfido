@@ -1,0 +1,10 @@
+id,user_id,type,category,amount,date
+8,4,Income,Freelancing,100000.0,2023-12-05
+9,4,Income,Business,700000.0,2024-04-10
+10,4,Income,Sports,90000.0,2024-05-20
+11,4,Income,Cafe,600000.0,2024-09-27
+12,4,Expense,Coffee,20000.0,2024-09-02
+13,4,Expense,Gym,5000.0,2024-04-5
+14,4,Expense,Personal Expenses,100000.0,2023-12-12
+15,4,Expense,Travelling,25000.0,2023-11-26
+16,4,Expense,Restaurant,15000.0,2024-02-23

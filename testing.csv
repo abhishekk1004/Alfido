@@ -1,0 +1,5 @@
+id,user_id,type,category,amount,date
+2,2,Expense,alcohol,25000.0,2020-05-25
+3,2,Income,Cricket,1000000.0,2015-06-25
+4,2,Expense,Traveling,15000.0,2024-01-20
+5,2,Income,Developer,600000.0,2024-08-24
